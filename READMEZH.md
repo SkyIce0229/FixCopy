@@ -1,6 +1,6 @@
 <p align=“center”>
-  <a href=“readme.md”>英语</a>|
-  <a href=“readmezh.md”>简体中文</a>
+  <a href=“README.md”>英语</a>|
+  <a href=“READMEZH.md”>简体中文</a>
 </p>
 
 
