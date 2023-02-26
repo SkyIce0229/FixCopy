@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="readme.md">English</a> |
-    <a href="readmezh.md">简体中文</a> 
+    <a href="README.md">English</a> |
+    <a href="READZH.md">简体中文</a> 
 </p>
 
 # FixCopy
