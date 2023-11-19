@@ -55,9 +55,12 @@ var blocklist = [
 onEvent('block.break',event => {
     //获取方块id
     //Utils.server.tell(event.block.id);
-    //特定方式以外的特定方块禁止破坏
-    if(blocklist.indexOf(event.block.id) != -1 && event.player.mainHandItem != 'Item:empty'){
-        event.cancel();
+    //获取操作玩家
+    // Utils.server.tell(event.getEntity());
+    //禁止虚拟玩家对特定方块进行破坏
+    if(blocklist.indexOf(event.block.id) != -1 && event.getEntity() == 'Deployer'){
+        // event.block.set("minecraft:air");//未做测试，不建议使用。
+        event.cancel();//如使用上一行的方法，请注释掉这一行
     }
 })
 //没什么用但万一有用呢
