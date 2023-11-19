@@ -26,3 +26,5 @@ ZS需要CraftTweaker Mod。
 如果你发现任何错误或小故障，一定要在问题下做一个错误报告，我会尽力解决它！同样，如果你对我应该添加的内容有一个很酷的想法，请告诉我，我会考虑添加它！ 作者是国人，中文交流更方便！谢谢啦~
 
 ## 感谢
+
+[Yorunina](https://github.com/Yorunina) 提供的CraftTweaker修复思路。
