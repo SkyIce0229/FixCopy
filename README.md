@@ -27,4 +27,4 @@ If you find any bugs or glitches, be sure to make a bug report under issues and 
 
 ## Thanks
 
-[Yorunina] (https://github.com/Yorunina) provides CraftTweaker repair.
+[Yorunina](https://github.com/Yorunina) provides CraftTweaker repair.
